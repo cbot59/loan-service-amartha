@@ -4,5 +4,5 @@ enum LoanState {
     PROPOSED,
     APPROVED,
     INVESTED,
-    DISBURSED;
+    DISBURSED
 }
